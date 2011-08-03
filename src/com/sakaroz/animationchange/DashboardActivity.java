@@ -32,7 +32,7 @@ public class DashboardActivity extends Activity {
 			CustomAlertDialog dialog = new CustomAlertDialog(this);
 			dialog.setTitle("Hello custom anim !");
 			dialog.setCancelable(true);
-			dialog.setMessage("This anim is so fancy.. ;)");
+			dialog.setMessage("This anim is so sexy... ;)");
 			return dialog;
 		}
     	return super.onCreateDialog(id);
