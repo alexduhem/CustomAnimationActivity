@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style
+		name="DownUpActivity"
+		parent="@android:style/Animation.Activity">
+		<item name="android:activityOpenEnterAnimation">@anim/activity_down_up_enter</item>
+		<item name="android:activityOpenExitAnimation">@anim/activity_down_up_exit</item>
+		<item name="android:activityCloseExitAnimation">@anim/activity_down_up_close_exit</item>
+		<item name="android:activityCloseEnterAnimation">@anim/activity_down_up_close_enter</item>
+	</style>
+
+	<style
+		name="CustomDialogAnim"
+		parent="@android:style/Animation.Dialog">
+		<item name="android:windowEnterAnimation">@anim/dialog_enter</item>
+		<item name="android:windowExitAnimation">@anim/dialog_exit</item>
+	</style>
+
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="down_up_activity_label">Activity down up animations</string>
+	<string name="button_title_downupactivity">Activity down up</string>
+	<string name="app_name">AnimationChange</string>
+	<string name="button_title_dialog">Dialog custom animation</string>
+	
+</resources>
